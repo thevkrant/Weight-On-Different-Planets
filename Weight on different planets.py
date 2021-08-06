@@ -3,7 +3,9 @@
  Weight on any planet =  --------------- x Gravitational force on that planet
                            9.81 m/s^2
 
-<---- Gravitational forces of different planets, dwarf planets and moons ---->
+Gravitational forces of different planets, dwarf planets and moons
+
+Planets:
 
 Mercury has gravitational force of 3.7 m/s^2
 Venus has gravitational force of 8.87 m/s^2
@@ -14,13 +16,13 @@ Saturn has gravitational force of 10.44 m/s^2
 Uranus has gravitational force of 8.87 m/s^2
 Neptune has gravitational force of 11.15 m/s^2
 
-------------- Dwraf Planets --------------
+Dwraf Planets:
 
 Pluto has gravitational force of 0.62 m/s^2
 Eris has gravitational force of 0.82 m/s^2
 Ceres has gravitational force of 0.27 m/s^2
 
------------------- Moons -----------------
+Moons:
 
 Moon has gravitational force of 1.622 m/s^2
 Encelaedus has gravitational force of 0.113 m/s^2
