@@ -3,7 +3,7 @@ Your weight is different on other planets in the Solar System because the gravit
 
 # The following code work on this formula:
  
- Weight on any planet = Weight on Earth / 9.81 m/s^2 x Gravitational force on that planet
+# Weight on any planet = Weight on Earth / 9.81 m/s^2 x Gravitational force on that planet
  
 Terms :
 1. Gravitational forces of Earth is 9.81 m/s^2
@@ -37,4 +37,5 @@ Ganymede has gravitational force of 1.428 m/s^2
 Callisto has gravitational force of 1.236 m/s^2
 Cyllene has gravitational force of 0.001 m/s^2
 
+#Output:
 ![Screenshot (8)](https://user-images.githubusercontent.com/85709371/128569479-bae67cc3-461a-4c4e-a142-7bbe8faa671d.png)
