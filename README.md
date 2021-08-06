@@ -2,10 +2,9 @@
 Your weight is different on other planets in the Solar System because the gravity is different. The following code tells you what will be  your weight on different planets, dwarf planets and moons. You can measure your weight in units of kilograms and the unit will be the same on the other planet.
 
 # The following code work on this formula:
-
-                         Weight on Earth 
- Weight on any planet =  --------------- x Gravitational force on that planet
-                           9.81 m/s^2
+ 
+ Weight on any planet = Weight on Earth / 9.81 m/s^2 x Gravitational force on that planet
+ 
 Terms :
 1. Gravitational forces of Earth is 9.81 m/s^2
 2. Gravitational forces of different planets, dwarf planets and moons
