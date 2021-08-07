@@ -37,5 +37,14 @@ Moons:
 7. Callisto has gravitational force of 1.236 m/s^2
 8. Cyllene has gravitational force of 0.001 m/s^2
 
-# Output:
+# Python
+
+# Output of python code:
 ![Screenshot (8)](https://user-images.githubusercontent.com/85709371/128569479-bae67cc3-461a-4c4e-a142-7bbe8faa671d.png)
+
+# Java
+
+Enter your weight in KGs and then choose any number of given planet to find your weight on that planet.
+
+# Output of Java code:
+![weights by java](https://user-images.githubusercontent.com/85709371/128603398-5243b4e4-d549-40ba-9556-59d0a1f74126.png)
