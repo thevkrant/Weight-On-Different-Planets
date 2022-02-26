@@ -1,17 +1,26 @@
-# Weight On Different Planets
-Python VS Java
+<div align="center">
+  <img height="60" src="https://user-images.githubusercontent.com/85709371/155844246-dc46fc45-6773-4830-9b2d-203aa96f6d8b.png">
+</div>
+
+# Python VS Java
+
+### Prerequisites
+- `Python`
+- `Java`
+
+## Weight On Different Planets
 
 Your weight is different on other planets in the Solar System because the gravity is different. The following code tells you what will be  your weight on different planets, dwarf planets and moons. You can measure your weight in units of kilograms and the unit will be the same on the other planet.
 
-# The following code work on this formula:
+### The following code work on this formula:
  
-# Weight on any planet = Weight on Earth / 9.81 m/s^2 x Gravitational force on that planet
+## Weight on any planet = Weight on Earth / 9.81 m/s^2 x Gravitational force on that planet
  
-Terms :
+`Terms :`
 1. Gravitational forces of Earth is 9.81 m/s^2
 2. Gravitational forces of different planets, dwarf planets and moons
 
-Planets:
+`Planets:`
 
 1. Mercury has gravitational force of 3.7 m/s^2
 2. Venus has gravitational force of 8.87 m/s^2
@@ -22,13 +31,13 @@ Planets:
 7. Uranus has gravitational force of 8.87 m/s^2
 8. Neptune has gravitational force of 11.15 m/s^2
 
-Dwraf Planets:
+`Dwraf Planets:`
 
 1. Pluto has gravitational force of 0.62 m/s^2
 2. Eris has gravitational force of 0.82 m/s^2
 3. Ceres has gravitational force of 0.27 m/s^2
 
-Moons:
+`Moons:`
 
 1. Moon has gravitational force of 1.622 m/s^2
 2. Encelaedus has gravitational force of 0.113 m/s^2
@@ -39,14 +48,14 @@ Moons:
 7. Callisto has gravitational force of 1.236 m/s^2
 8. Cyllene has gravitational force of 0.001 m/s^2
 
-# Python
+## Python
 
-# Output of python code:
+### Output of python code:
 ![Screenshot (8)](https://user-images.githubusercontent.com/85709371/128569479-bae67cc3-461a-4c4e-a142-7bbe8faa671d.png)
 
-# Java
+## Java
 
 Enter your weight in KGs and then choose any number of given planet to find your weight on that planet.
 
-# Output of Java code:
+### Output of Java code:
 ![weights by java](https://user-images.githubusercontent.com/85709371/128603398-5243b4e4-d549-40ba-9556-59d0a1f74126.png)
