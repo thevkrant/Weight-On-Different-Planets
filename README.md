@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="60" src="https://user-images.githubusercontent.com/85709371/155844246-dc46fc45-6773-4830-9b2d-203aa96f6d8b.png">
+  <img height="60" src="https://user-images.githubusercontent.com/85709371/156916372-d8c1bbdd-5fe9-40d1-a250-5a1d4d454832.png">
+  <img height="60" src="https://user-images.githubusercontent.com/85709371/156916388-f133f1a6-6b8a-4931-a609-775dddb402f4.png">
 </div>
 
 # Python VS Java
