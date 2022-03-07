@@ -62,4 +62,4 @@ Enter your weight in KGs and then choose any number of given planet to find your
 ![weights by java](https://user-images.githubusercontent.com/85709371/128603398-5243b4e4-d549-40ba-9556-59d0a1f74126.png)
 
 ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
+[Vikrant](https://github.com/thevkrant)
